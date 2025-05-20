@@ -1,0 +1,2 @@
+# Saving_Data_To_Excel_Json
+This project collects and logs real-time sensor data (temperature, vibration, and tilt) using an embedded microcontroller. The system continuously reads analog values from connected sensors, stores them in structured arrays, and prepares them for further analysis or transmission. The design ensures reliable time-series data collection for applications like structural health monitoring or environmental sensing.
